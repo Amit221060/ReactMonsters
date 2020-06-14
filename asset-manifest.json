@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/ReactMonsters/static/css/main.34091aea.chunk.css",
+    "main.js": "/github.io/ReactMonsters/static/js/main.7194275f.chunk.js",
+    "main.js.map": "/github.io/ReactMonsters/static/js/main.7194275f.chunk.js.map",
+    "runtime-main.js": "/github.io/ReactMonsters/static/js/runtime-main.c82216c9.js",
+    "runtime-main.js.map": "/github.io/ReactMonsters/static/js/runtime-main.c82216c9.js.map",
+    "static/js/2.f9462cd0.chunk.js": "/github.io/ReactMonsters/static/js/2.f9462cd0.chunk.js",
+    "static/js/2.f9462cd0.chunk.js.map": "/github.io/ReactMonsters/static/js/2.f9462cd0.chunk.js.map",
+    "index.html": "/github.io/ReactMonsters/index.html",
+    "precache-manifest.a1289694b55e590cef96401dc63eacf6.js": "/github.io/ReactMonsters/precache-manifest.a1289694b55e590cef96401dc63eacf6.js",
+    "service-worker.js": "/github.io/ReactMonsters/service-worker.js",
+    "static/css/main.34091aea.chunk.css.map": "/github.io/ReactMonsters/static/css/main.34091aea.chunk.css.map",
+    "static/js/2.f9462cd0.chunk.js.LICENSE.txt": "/github.io/ReactMonsters/static/js/2.f9462cd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c82216c9.js",
+    "static/js/2.f9462cd0.chunk.js",
+    "static/css/main.34091aea.chunk.css",
+    "static/js/main.7194275f.chunk.js"
+  ]
+}
